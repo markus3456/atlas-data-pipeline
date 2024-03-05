@@ -1,1 +1,4 @@
 pymongo
+requests
+ipython
+python-dotenv
