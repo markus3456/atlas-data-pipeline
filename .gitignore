@@ -1,2 +1,4 @@
 # .gitignore
 .env
+search.json
+json_output/
