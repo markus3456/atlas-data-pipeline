@@ -4,7 +4,7 @@
 **Overview**
 
 This App facilitates the capability of extracting Data from a Youtube API transforming the data using Python and uploading individual .json documents to a MongoDB Database on Atlas (Cloud). 
-It can analyzed video stats such as view count, likes, comments and more of entire youtube channels or individual videos based on a given search term. 
+It enables anlyzing video stats such as view count, likes, comments and more of entire youtube channels or individual videos based on a given search term. 
 
 **Deployment**
 
