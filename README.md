@@ -12,7 +12,7 @@ This app can run in any Python supported environment. The whole directory should
 To extract Data from Youtube API, a API Key is required and can be configured on https://developers.google.com/youtube/v3.
 To load Data to the MongoDB Atlas Database a registraion on MongoDB and the URI to your Database is required. 
 
-**Requiremnts:**
+**Requirements:**
 
 - Python 3
 - installation of following libaries (can be installed using requirements.txt)
